@@ -1,0 +1,23 @@
+{
+  "name": "selabheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatopancheri/rovaHeroku.git"
+  },
+  "author": "io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatopancheri/rovaHeroku/issues"
+  },
+  "homepage": "https://github.com/renatopancheri/rovaHeroku#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "util": "^0.10.3"
+  }
+}
